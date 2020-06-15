@@ -6,3 +6,7 @@ this project also uses numpy and zip library of python
 pillow: Python imaging library
 tesseract: Optical Character Recognization library
 opencv: face detection using xml
+
+
+
+******* Make Changes in the Path ******** 
